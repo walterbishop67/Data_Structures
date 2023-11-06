@@ -7,8 +7,12 @@
   <h2>Stacks&Queues</h2>
   <p>
     &emsp; Section3 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Stacks%26Queues/Stack.java">Stacks</a><br>
-    &emsp; Section4 -> <a href="">Queues</a><br>
+    &emsp; Section4 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Stacks%26Queues/Queue.java">Queues</a><br>
   </p>
+  <h2>Binary_Search_Trees</h2>
+    <p>
+      &emsp; Section5 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Binary_Search_Trees/BinarySearchTree.java">Binary_Search_Tree</a><br>
+    </p>
   
   
 
