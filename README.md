@@ -5,4 +5,10 @@
      &emsp; Section2 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Linked_Lists/DoublyLinkedList.java">Doubly_Linked_List</a><br>
   </p>
   <h2>Stacks&Queues</h2>
+  <p>
+    &emsp; Section3 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Stacks%26Queues/Stack.java">Stacks</a><br>
+    &emsp; Section4 -> <a href="">Queues</a><br>
+  </p>
+  
+  
 
