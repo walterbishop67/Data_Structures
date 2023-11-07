@@ -13,6 +13,9 @@
     <p>
       &emsp; Section5 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Binary_Search_Trees/BinarySearchTree.java">Binary_Search_Tree</a><br>
     </p>
-  
-  
+<h2>Tree_Traversal</h2>
+    <p>
+        &emsp; Section6 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Tree_Traversal/Breadth_First_Tree/Trees.java">Breadth_First_Tree</a><br>
+        &emsp; Section7 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Tree_Traversal/Depth_First_Tree/Trees.java">Depth_First_Tree</a><br>
+    </p>
 
