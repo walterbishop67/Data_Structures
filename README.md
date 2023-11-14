@@ -18,4 +18,10 @@
         &emsp; Section6 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Tree_Traversal/Breadth_First_Tree/Trees.java">Breadth_First_Tree</a><br>
         &emsp; Section7 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Tree_Traversal/Depth_First_Tree/Trees.java">Depth_First_Tree</a><br>
     </p>
+<h2>Sorting</h2>
+    <p>
+        &emsp; Section8 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Sorting/Bubble_Sort/BubbleSort.java">BubbleSort</a><br>
+        &emsp; Section9 -> <a href="https://github.com/walterbishop67/Data_Structures/blob/main/Sorting/Selection_Sort/SelectionSort.java">SelectionSort</a><br>
+    </p>
+    
 
